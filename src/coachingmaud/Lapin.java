@@ -37,5 +37,6 @@ public class Lapin {
     
     public void crier(){
         System.out.println("Yihaaaaaaahouuuuuuuuuu");
+        System.out.println("Me gusta las carotas !!!");
     }
 }
